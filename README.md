@@ -18,4 +18,10 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./foto1.png "Optional title")
+![Alt text](./foto2.png "Optional title")
+![Alt text](./foto3.png "Optional title")
+![Alt text](./foto4.png "Optional title")
+![Alt text](./foto5.png "Optional title")
+![Alt text](./foto6.png "Optional title")
+![Alt text](./foto7.png "Optional title")
